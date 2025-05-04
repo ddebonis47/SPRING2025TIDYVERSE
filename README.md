@@ -13,6 +13,8 @@ Revision/Addition Description and Link:
 # Daniel D.
 
 * Initial Description and Link:
+* Used global spice data to demonstrate graphing capabilities of ggplot2 - focused on line graph and scatterplot
+* ggplotexample.rmd
 
 * Revision/Addition Description and Link:
 
