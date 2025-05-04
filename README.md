@@ -13,7 +13,7 @@ Revision/Addition Description and Link:
 # Daniel D.
 
 * Initial Description and Link:
-
+Used global spice data to provided examples of some ggplot functions including making scatterplots and line graphs.
 * Revision/Addition Description and Link:
 
 
