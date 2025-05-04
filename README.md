@@ -15,7 +15,7 @@ Revision/Addition Description and Link:
 * Initial Description and Link:
 
 * Revision/Addition Description and Link:
-
+Extended Jane Song's example to include plot organized by the change in voters with diverging color palette
 
 
 # El Hadji D.
